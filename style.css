@@ -1,0 +1,17 @@
+.recipe {
+    background-color: rgb(235, 235, 12);
+}
+.description {
+    background-color:rgb(167, 28, 28);
+}
+img {
+    height:auto;
+    width: 500px;
+}
+.steps {
+    background-color: blueviolet;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
